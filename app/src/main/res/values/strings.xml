@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PemMobil</string>
+    <string name="username">username</string>
+    <string name="textlogin">login</string>
+</resources>
